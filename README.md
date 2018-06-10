@@ -6,7 +6,7 @@ Weather Sensors
 
 This project allows the 433MHz signals from an Oregon Scientific Temperature and Humidity Sensor (THGR122NX) to be intercepted, decoded and displayed on an LCD using an Arduino Uno. It is highly recommended to use a Super Superheterodyne Receiver to get better noise rejection and sensitivity.
 
-###The Hardware
+### The Hardware
 
 ![alt text](images/front.jpg?raw=true "Oregon Scientific Temperature and Humidity Sensor (THGR122NX)")
 
